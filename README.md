@@ -29,6 +29,7 @@ https://www.youtube.com/watch?v=19SW3P_PRHQ&t=2387s
 
 ২. প্রোগ্রামিং & প্রব্লেম সলভিং 
 নতুনদের জন্য দ্বিমিক কম্পিউটিং এর প্রব্লেম সলভিং লেকটার গুলি দেখতে পারেন। 
+
 http://www.jhankarmahbub.com/hablu/intro/
 https://www.youtube.com/watch?v=aToV9vb1yhg
 https://www.youtube.com/channel/UCs2cWnd7Sb1eXT-50oMOxlw
@@ -38,8 +39,10 @@ https://www.youtube.com/c/HabluProgrammer1
 
 
 Language: C/C ++, Python ,Java ,Go ,PHP  
-C/C++:  https://www.youtube.com/watch?v=J8CImQO0Ogw&list=PLym69wpbTIIEHqvuc5ig7uz1fUKbHhVz8
+C/C++: 
+ https://www.youtube.com/watch?v=J8CImQO0Ogw&list=PLym69wpbTIIEHqvuc5ig7uz1fUKbHhVz8
 Java: 
+
 https://www.youtube.com/channel/UCEXwc6mNh7Lakj6lX-7a2Mg
 https://www.youtube.com/watch?v=g5XQ-kLegIs
 https://www.youtube.com/watch?v=XjwTPNKs6Tc&list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH
@@ -50,11 +53,13 @@ https://www.youtube.com/watch?v=xjcCi6Tzfxw&list=PLgH5QX0i9K3rz5XqMsTk41_j15_668
 https://www.youtube.com/watch?v=Nj7h3FWcRGY
 Go:
 PHP: 
+
 https://www.youtube.com/watch?v=I11nduRNeT8&list=PLwmVgOWoXWb8L6vl5rT8GuFnchIkMS6aA
 https://www.youtube.com/watch?v=Ea9L-fX1dQY
 https://www.youtube.com/watch?v=_TST9dVptls
 
 ৩. ডাটা স্ট্রাকচার এন্ড এলগোরিদম (Data Structure & Algorithm)
+
 Time complexity and space complexity
 String
 Array
@@ -82,6 +87,7 @@ https://www.youtube.com/watch?v=bkSWJJZNgf8&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6Xd
 https://www.youtube.com/watch?v=6-mdtMKfEYM
 
 কম্পিউটার নেটওয়ার্ক :
+
 https://www.youtube.com/watch?v=QKfk7YFILws
 https://www.youtube.com/watch?v=OEC0PcOgyZw&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g
 https://www.youtube.com/watch?v=FhjG0QhX9QA
@@ -89,6 +95,7 @@ https://www.youtube.com/watch?v=C56yTf4VqiM
 
 
 অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং (OOP):
+
 https://www.youtube.com/watch?v=mk3jASNZ3DE
 https://www.youtube.com/watch?v=QpDemIZnPSM
 https://www.youtube.com/watch?v=5sH2WHxApTE
@@ -96,15 +103,18 @@ https://youtu.be/hf4k4OWlBfI
 https://www.youtube.com/watch?v=mXw9ruZaxzQ
 
 ডাটাবেস(Database): 
+
 https://www.youtube.com/watch?v=HXV3zeQKqGY
 https://www.youtube.com/watch?v=1IQbPxFkoiQ&list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD
 
 ওয়েব এপ্লিকেশন প্রজেক্ট (Web application Project):
+
 https://www.youtube.com/watch?v=HdAlPmkWGp4&list=PLhzn3ud-chTLJUO5-EmWo-l3KZGZUFTZY
 https://www.youtube.com/watch?v=1SnPKhCdlsU (PHP)
 
 
 এন্ড্রয়েড এপ্লিকেশন প্রজেক্ট (Android Application Project):
+
 https://www.youtube.com/watch?v=ZYvbmVEwX14&list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5
 https://www.youtube.com/watch?v=O95uA9b9S-o&list=PLkyGuIcLcmx0jiHcv_dps5wKMKjiI1AuD
 https://www.youtube.com/watch?v=KXsbKbz0OCQ
@@ -113,15 +123,18 @@ https://www.youtube.com/watch?v=lJesACbzuH4&list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Up
 
 ফ্রন্টএন্ড প্রজেক্ট ( Front End Project): (Angular, Vue. Js, React)
 Angular:
+
 https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
 https://www.youtube.com/watch?v=8auBpr_x2FQ&list=PLEfqpT48xB4H2gOHDzs2dm_ZmoECuTHtR
 https://www.youtube.com/watch?v=OSDJVht-kzk&list=PLGwQQblZgkdbEvSHHQyGzAZ9MIy-jYvP8
 
 React:
+
 https://www.youtube.com/watch?v=zIx9kFXdwlc
 https://www.youtube.com/watch?v=0qQLwaJKSC4&list=PLkyGuIcLcmx2abvUMewDtJf_jHjrX__0C
 
 Vue.Js:
+
 https://www.youtube.com/watch?v=0deA8BkOKC8&list=PL6f7IPPkpDKn0iI2Y5dnEgyrEqw2VvJ2P
 https://www.youtube.com/watch?v=iIvN7upsLoA
 
@@ -129,6 +142,7 @@ https://www.youtube.com/watch?v=iIvN7upsLoA
 
 
 ব্যাকএন্ড REST API প্রজেক্ট (BackEnd Rest API project):
+
 https://www.youtube.com/watch?v=ZoLcer3NWgQ
 https://www.youtube.com/watch?v=Kij3fZ47rMY&list=PL9ItnpbIsLu8Z90IG0-2LTkiYnWTL3XFO
 https://www.youtube.com/watch?v=35EQXmHKZYs&t=3459s
